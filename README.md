@@ -84,7 +84,7 @@ I'm always interested in learning, collaborating on technical projects, and expl
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fresnel-tatkebo-tonda-028bb11ba)
 
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tondafresnel3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tondafresnel3@gmail.com) tondafresnel3@gmail.com
 
 ---
 
